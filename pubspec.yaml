@@ -15,7 +15,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_screenutil:
   http:
-  fancy_shimmer_image:
   flutter_local_notifications:
   flutter_staggered_animations:
   provider:

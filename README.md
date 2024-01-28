@@ -1,16 +1,36 @@
 # task
 
-### Task
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# flutter_screenutil
+for screen responsive
 
-A few resources to get you started if this is your first Flutter project:
+# http
+for dealing with remote apis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# flutter_local_notifications
+for showing notifications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flutter_staggered_animations
+for smooth and transition animations
+
+# provider
+state management solutions
+
+# flutter_ringtone_player
+to play sound with upcoming notifications
+
+# firebase_auth
+to deal with firebase authentication
+
+# firebase_core
+to initiate any firebase package
+
+# firebase_messaging
+to deal with firebase fcm (firebase cloud messaging)
+
+# flutter_spinkit
+loading package
+
+# flutter_launcher_icons
+to generate app launcher icon
