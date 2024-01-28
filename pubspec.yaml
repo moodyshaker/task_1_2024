@@ -1,0 +1,44 @@
+name: task
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_screenutil:
+  http:
+  fancy_shimmer_image:
+  flutter_local_notifications:
+  flutter_staggered_animations:
+  provider:
+  flutter_ringtone_player:
+  firebase_auth:
+  firebase_core:
+  firebase_messaging:
+  flutter_spinkit:
+  flutter_launcher_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: 'assets/app_logo.png'
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
